@@ -1,12 +1,22 @@
-## Hi there 👋
+[![Logolink logo](https://www.logolink.no/images/Logo/logolink_web_mobil.svg)](https://www.logolink.no)
 
-<!--
+> Det allsidige reklame- og designbyrået på Voss – med fokus på god design, gjennomtenkte løysingar og praktisk tilnærming.
 
-**Here are some ideas to get you started:**
+**Adresse:** Vangsgata 26 A, 5700 Voss  
+**Telefon:** +47 91 700 600  
+**E-post:** post@logolink.no
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## Om oss
+
+Logolink er eit reklame- og designbyrå etablert i 2007. Me leverer visuell kommunikasjon, web og produksjon for små og store verksemder. Hovudmålet vårt er å formidla bodskapen til kundane tydeleg og effektivt gjennom solid handverk og smarte prosessar.
+
+## Kjernekompetanse
+
+- Strategi → design → produksjon i same hus
+- Tverrfagleg team (design, web, tekst, illustrasjon)
+- Erfaring med offentlege og private kundar på Vestlandet
+
+---
+© Logolink AS
