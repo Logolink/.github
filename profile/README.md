@@ -1,4 +1,4 @@
-[![Logolink logo](https://www.logolink.no/images/Logo/logolink_web_mobil.svg)](https://www.logolink.no)
+[![Logolink logo](https://cdn.logolinkstudio.no/logolink/logolink_web_mobil.svg)](https://www.logolink.no)
 
 > Det allsidige reklame- og designbyrået på Voss – med fokus på god design, gjennomtenkte løysingar og praktisk tilnærming.
 
